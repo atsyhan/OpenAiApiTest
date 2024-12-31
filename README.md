@@ -1,6 +1,6 @@
 # CSV Categorization with OpenAI API
 
-This is a simple test application designed to open a CSV file, process its rows line by line, and use the OpenAI API to determine the category and subcategory for each data row.
+This is a simple test console application designed to open a CSV file, process its rows line by line, and use the OpenAI API to determine the category and subcategory for each data row.
 
 ---
 
