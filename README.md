@@ -6,7 +6,7 @@ This is a simple test console application designed to open a CSV file, process i
 
 ## Features
 
-- Reads data from a CSV file.
+- Reads data from a CSV file set in `appsettings.json`.
 - Sends each row to the OpenAI API for categorization.
 - Outputs the category and subcategory for each row.
 
