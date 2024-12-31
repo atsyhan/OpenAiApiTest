@@ -1,0 +1,17 @@
+Id,Date,Amount,Vendor,Region,Notes
+1,12/1/2024,150,Office Depot,HQ,Monthly office supplies purchase
+2,12/3/2024,20000,Payroll,HQ,Executive salary payments for December
+3,12/10/2024,1200,Delta Airlines,HQ,Business travel to NYC for client meeting
+4,12/5/2024,5000,Consulting Firm A,Investments,Market research for a new acquisition
+5,12/7/2024,800,Law Firm B,Investments,Annual compliance filing
+6,12/15/2024,3000,Broker X,Investments,Portfolio acquisition closing fees
+7,12/2/2024,2500,Event Company,Fundraising,Hosting an investor networking event
+8,12/6/2024,10000,Advisor Y,Fund Management,Quarterly management fee payment
+9,12/4/2024,1500,Consulting Group Z,Portfolio A,Employee training program
+10,12/8/2024,7000,Consultant W,Portfolio B,Strategic growth advice for expansion
+11,12/9/2024,3000,PR Agency,Marketing,End-of-year branding campaign
+12,12/12/2024,1200,Restaurant A,Marketing,Investor dinner meeting
+13,12/14/2024,5000,Bank X,Finance,Monthly loan interest payment
+14,12/18/2024,200,Bank Y,Finance,Monthly account maintenance fees
+15,12/11/2024,8000,Audit Firm Z,HQ,Annual financial audit fees
+16,12/16/2024,4000,Insurance Provider,HQ,Liability insurance policy renewal
